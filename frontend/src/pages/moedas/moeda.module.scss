@@ -1,0 +1,70 @@
+.moeda{
+    padding: 0 4rem;
+    height: calc(100vh - 6.5rem);
+    overflow-y: scroll;  
+
+    .moedaContent{
+        margin-top: 4rem;
+        margin-bottom: 1.5rem;
+        max-width: 45rem;
+    
+
+        h1{
+            display: block;
+            margin-top: 2rem;
+            font: 800 2rem Lexend, sans-serif;
+            line-height: 2rem;
+            
+        }
+    }
+
+    .moedaInfo{
+        max-height: 15rem;
+        margin-top: 2rem;
+        margin-bottom: 1.5rem;
+        display: flex;
+        justify-content: left;
+        border-bottom: 1px solid var(--gray-100);
+
+        .info{
+            padding: 0 2rem;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+
+            p{
+                display: block; 
+                font: 1000 1rem Lexend, sans-serif;
+                
+            }
+
+            span{
+                display: block;
+                margin-top: 1rem;
+                font: 200 0.85rem Lexend, sans-serif;
+                line-height: 1rem;
+            }
+        }
+    }
+
+    .moedaDescription{
+        margin-bottom: 3rem;
+        margin-top: 3rem;
+
+        span{
+            margin-top: 1rem;
+            font: 800 1.25rem Lexend, sans-serif;
+            line-height: 2rem; 
+            
+        }
+
+        p{
+            margin-top: 2rem;
+            font-family: Inter, sans-serif;
+            text-align: justify;
+            font-weight: 400;
+            line-height: 1.5rem;
+        }
+    }
+       
+}
