@@ -33,9 +33,15 @@ $ cd frontend
 $ npm install
 
 ## Execute a aplicação 
-yarn dev
+$ yarn dev
 
 ## O servidor frontend inciará na porta:3000 - acesse <http://localhost:3000> 
+
+## Para geração do banco usando as migrations do knex execute a seguinte linha 
+$ knex:migrate
+
+## Para o rollback das migrations utilize
+$ knex:migrate:rollback:
 
 ## Tecnologias utilizadas 
 As seguintes ferramentas foram usadas na construção do projeto:
