@@ -13,7 +13,7 @@ Além disto é bom ter um editor para trabalhar com o código como VSCode
 $ git clone <https://github.com/Weslley049/Catalogo-de-Moedas----FFIT>
 
 ## Acesse a pasta do projeto no terminal/cmd
-$ cd Catalogo-de-Moedas----FFIT
+$ cd Catalogo-de-Moedas--FFIT
 
 ## Vá para a pasta backend
 $ cd backend
