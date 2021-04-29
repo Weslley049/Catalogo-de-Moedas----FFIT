@@ -43,6 +43,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Next.js](https://nextjs.org/)
 
 <h4>Depedências para o backend da aplicação</h4>
 - Express 4.17.1 <br>
